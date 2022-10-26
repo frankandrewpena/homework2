@@ -1,3 +1,3 @@
-# homework2
+# homework
 
 Demo repo for experiments. 
